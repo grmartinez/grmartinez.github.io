@@ -3,11 +3,16 @@
 	width: 800px;
 }*/
 
-#header {
+/* #header {
 	padding: 5px 2px 5px 2px;
 	background: #8DD3F4;
-}
-
+}*/
+/*
 font {
 	
+}
+*/
+span {
+	display: block;
+	padding: 10px 0 10px 0;
 }
